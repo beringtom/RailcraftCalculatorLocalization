@@ -50,6 +50,7 @@ common.filterFluid=Flydene Brændsel
 common.filterButton=Filter Brændstofs Liste
 common.fuel=Brændstof
 common.fuelDesc=(Stadie) Navn (Stack størrelse)(Varme Grader)
+common.hp=High Pressure (Max Varme: 1000)
 common.boiler=Boiler Type
 common.numTanks=Antal Tanke (Størrelse)
 common.numTanksDesc=Gå efter mere end nu har brug for, spild af brændstof.
